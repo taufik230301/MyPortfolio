@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Home from './component/Home/Home';
-import Tulisan from './component/Home/Tulisan';
+import Tulisan from './Tulisan';
 import Navbar from './component/Navbar1/Navbar1';
 
 class App extends Component{
@@ -13,7 +13,7 @@ class App extends Component{
         <Navbar />
           <Switch>
            <Route path="/" component={Home} exact/>
-           <Route path="/Article" component={Tulisan}/>
+           <Route path="/Tulisan" component={Tulisan}/>
           <Route component={Error}/>
          </Switch>
       </div> 
