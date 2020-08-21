@@ -1,0 +1,7 @@
+.Home{
+    background-image: url(../Image/right.svg); 
+    background-size: cover;
+    width: 100%;
+    background-position: right;
+    background-position: top;
+} 

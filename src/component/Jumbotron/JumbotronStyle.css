@@ -1,0 +1,43 @@
+.btn.btn-primary {
+    margin: 10px 10px 10px 10px;
+}
+.Container{
+    display: flex;
+    margin: 10px 10px 175px 0px;
+}
+.jumbotron.jumbotron-fluid{
+    background: none;
+    margin-left: 70px;
+   
+}
+
+.img{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(110, 95, 73);
+    margin-left: 520px;
+    margin-top: 60px;
+    border-radius: 50%;
+
+}
+
+@media only screen and (max-width: 1350px) {
+   .img{
+       margin-left: 250px;
+       display: flex;
+       transition: 1s;
+   }
+  }
+  @media only screen and (max-width: 1100px) {
+    .img{
+        margin-left: 100px;
+        display: flex;
+        transition: 1s;
+    }
+   }
+
+   @media only screen and (max-width: 800px) {
+    .img{
+        display: none;
+    }
+   }

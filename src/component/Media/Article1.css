@@ -1,0 +1,14 @@
+.media {
+    margin: 10px 10px 10px 10px;
+    padding: 30px 30px 30px 30px;
+    background-color: rgba(240, 240, 240, 0.349);
+}
+
+img {
+    width: 200px;
+    margin-left: 10px;
+}
+
+.media-body{
+    margin-left: 50px;
+}
