@@ -8,8 +8,8 @@ const Jumbotron1 = (props) => {
         <div className="Container">
             <Jumbotron fluid>
                 <Container fluid>
-                    <h1 className="display-3">Hello Visitors</h1>
-                    <h2 className="display-4">I'm Taufiiqulhakim</h2>
+                    <h2 className="display-5">Hello Visitors</h2>
+                    <h2 className="display-4">I'm Taufik</h2>
                     <p className="lead">Selamat datang di Web Profile Taufiiqulhakim.</p>
                 </Container>
                 <Button color="primary">Selengkapnya</Button>
