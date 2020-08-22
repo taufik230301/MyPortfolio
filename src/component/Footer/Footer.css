@@ -34,7 +34,7 @@ div.find.container{
   
  }
  
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
   .icon{
     width: 25px;
      transition: width 0.3s, height 0.3s;

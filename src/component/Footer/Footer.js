@@ -24,12 +24,14 @@ const Footer = (props) => {
               </a>
             </Col>
             <Col>
-              <a href="https://wa.me/082176350289">
+              <a href="https://wa.me/+6282176350289">
                 <img src={wa} className="icon" />
               </a>
             </Col>
             <Col>
+            <a href="https://www.linkedin.com/in/taufiiqul-hakim-790ab61a7/">
               <img src={linked} className="icon" />
+              </a>
             </Col>
           </Row>
         </div>
