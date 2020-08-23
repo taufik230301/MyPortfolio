@@ -9,6 +9,7 @@
 .jumbotron.jumbotron-fluid{
     background: none;
     margin-left: 70px;
+    color: white;
    
 }
 
@@ -16,7 +17,7 @@
     width: 350px;
     height: 350px;
     background-color: rgb(110, 95, 73);
-    margin-left: 520px;
+    margin-left: 500px;
     margin-top: 60px;
     border-radius: 50%;
 

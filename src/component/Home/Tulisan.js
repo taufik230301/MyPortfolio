@@ -1,11 +1,12 @@
 import React,{Component} from 'react';
-
+import './Tulisan.css'
 
 class Tulisan extends React.Component{
     render(){
         return (
-            <div>
-             <h1>Something cool  is happening</h1>
+            <div className="Container1">
+             <h1>2017</h1>
+             <p>Artikel Pendidikan</p>
             </div>
         )
     }

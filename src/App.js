@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Home from './component/Home/Home';
-import Tulisan from './Tulisan';
+import Tulisan from './component/Home/Tulisan';
 import Navbar from './component/Navbar1/Navbar1';
 
 class App extends Component{

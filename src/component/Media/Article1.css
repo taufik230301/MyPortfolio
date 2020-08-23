@@ -1,8 +1,8 @@
 .media {
     margin: 10px 10px 10px 10px;
     padding: 30px 30px 30px 30px;
-    background-color: rgba(240, 240, 240, 0.349);
-    
+    background-color: rgba(240, 240, 240, 0.24);
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);   
 }
 
 img {
@@ -12,6 +12,7 @@ img {
 
 .media-body{
     margin-left: 50px;
+    
 }
 
 @media only screen and (max-width: 600px) {

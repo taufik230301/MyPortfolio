@@ -8,7 +8,7 @@ import Dicoding from '../Image/dicoding.png'
 
 const Article1 = () => {
     return (
-        <div>
+        <div title="Section 1" id="section1">
             <Fade>
             <Media>
                 <Media left top href="https://taufik230301.github.io/">
