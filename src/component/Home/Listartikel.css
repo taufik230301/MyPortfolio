@@ -1,0 +1,16 @@
+.Container1{
+    text-align: center;
+    color: white;
+    background-color: rgb(163, 163, 163);
+    width: 100%;
+    height: 1200px;
+}
+
+p.list{
+    color: white;
+}
+
+p.list:hover{
+   color: rgb(20, 227, 241);
+   text-decoration: none;
+}
