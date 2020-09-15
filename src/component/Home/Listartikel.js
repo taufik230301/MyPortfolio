@@ -13,6 +13,11 @@ class List extends React.Component{
             <NavLink href="https://www.youtube.com/watch?v=8vLpcVfIScg&t=17s">
                  <p className="list">Membuat Komponen yang dinamis Menggunakan PROPS pada ReactJS</p>
             </NavLink>
+
+            <h1>Dart</h1>
+            <NavLink href="https://www.youtube.com/watch?v=f0DaP-Xz92U">
+                 <p className="list">Kenalan dengan bahasa DART yang super kece dari google (Hello World)</p>
+            </NavLink>
             </div>
         )
     }
