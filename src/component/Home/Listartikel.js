@@ -18,6 +18,9 @@ class List extends React.Component{
             <NavLink href="https://www.youtube.com/watch?v=f0DaP-Xz92U">
                  <p className="list">Kenalan dengan bahasa DART yang super kece dari google (Hello World)</p>
             </NavLink>
+            <NavLink href="">
+                 <p className="list">Yok Mengenal Lebih Dalam Macam - Macam Variable dan Tipe Data dalam Dart</p>
+            </NavLink>
             </div>
         )
     }

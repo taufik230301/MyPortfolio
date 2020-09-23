@@ -18,6 +18,18 @@ div.find.container{
   width: 50px;
    transition: width 0.3s, height 0.3s;
 }
+.NameFooter{
+    background-color: rgb(122, 121, 118);
+    width: 101%;
+    padding: auto;
+    height: 80px;
+    
+}
+.Name{
+  color: white;
+  margin: auto;
+  font-size: 20px;
+}
 
 .icon:hover{
   width: 60px;
