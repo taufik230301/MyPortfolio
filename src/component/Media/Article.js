@@ -16,7 +16,7 @@ const Article = () => {
         </Media>
         Ini adalah CV saya berisi riwayat hidup dan pengalaman saya, saya memiliki beberapa keahlian dan Hobby.
         <br/>
-        <Button color="primary">Download</Button>
+        <Button color="primary" href="https://drive.google.com/file/d/1fltPrTss89VXSFDCt8LOdBmC87h3zSP_/view?usp=sharing">Download</Button>
       </Media>
      </Media>
         

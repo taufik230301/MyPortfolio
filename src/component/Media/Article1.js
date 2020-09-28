@@ -5,7 +5,7 @@ import calculator from '../Image/Calculator.jpg'
 import patal from '../Image/logo.png'
 import Fade from 'react-reveal/Fade'
 import Dicoding from '../Image/dicoding.png'
-
+import VB from '../Image/VB.png'
 const Article1 = () => {
     return (
         <div title="Section 1" id="section1">
@@ -60,6 +60,19 @@ const Article1 = () => {
             Mengimplementasikan penerapan dasar - dasar pembuatan web site, dan membuat project web portfolio menggunakan HTML, CSS dan Javascript.
             <br/>
           <Button color="primary" href="https://github.com/taufik230301/Website-Taufik">View Code</Button>
+                </Media>
+            </Media>
+            <Media className="mt-1">
+                <Media left middle href="">
+                    <Media object data-src="holder.js/64x64" alt="Generic placeholder image" src={VB} />
+                </Media>
+                <Media body>
+                    <Media heading>
+                       Membuat Program Akar Persamaan Non-Linear dengan pengaplikasian metode Tabel menggunakan "Visual Basic Excel 2010"
+          </Media>
+            Kolaborasi membangun program Akar Persamaan Non-Linear dengan pengaplikasian metode Tabel menggunakan "Visual Basic Excel 2010", untuk memenuhi tugas kuliah FKIP MTK.
+            <br/>
+          <Button color="primary" href="https://www.youtube.com/watch?v=Qnqyp3sSrhc&t=483s">View Program</Button>
                 </Media>
             </Media>
             </Fade>
