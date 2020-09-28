@@ -6,6 +6,9 @@ import patal from '../Image/logo.png'
 import Fade from 'react-reveal/Fade'
 import Dicoding from '../Image/dicoding.png'
 import VB from '../Image/VB.png'
+import Udemy from '../Image/udemy.png'
+
+
 const Article1 = () => {
     return (
         <div title="Section 1" id="section1">
@@ -73,6 +76,19 @@ const Article1 = () => {
             Kolaborasi membangun program Akar Persamaan Non-Linear dengan pengaplikasian metode Tabel menggunakan "Visual Basic Excel 2010", untuk memenuhi tugas kuliah FKIP MTK.
             <br/>
           <Button color="primary" href="https://www.youtube.com/watch?v=Qnqyp3sSrhc&t=483s">View Program</Button>
+                </Media>
+            </Media>
+            <Media className="mt-1">
+                <Media left middle href="">
+                    <Media object data-src="holder.js/64x64" alt="Generic placeholder image" src={Udemy} />
+                </Media>
+                <Media body>
+                    <Media heading>
+                       Latihan Online Course Udemy dengan Membuat Weather Apps
+          </Media>
+          Implementasi dengan dasar - dasar bahasa pemrograman Dart dan implementasi Penggunaan API.
+            <br/>
+          <Button color="primary" href="https://github.com/taufik230301/Weather_Apps">View Source Code</Button>
                 </Media>
             </Media>
             </Fade>
