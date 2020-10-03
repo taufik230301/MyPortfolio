@@ -21,14 +21,16 @@ div.find.container{
 .NameFooter{
     background-color: rgb(122, 121, 118);
     width: 101%;
-    padding: auto;
-    height: 80px;
-    
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .Name{
   color: white;
-  margin: auto;
   font-size: 20px;
+  padding: 10px;
+
 }
 
 .icon:hover{
@@ -46,7 +48,7 @@ div.find.container{
   
  }
  
-@media only screen and (max-width: 500px) {
+@media only screen and (min-width: 500px) {
   .icon{
     width: 25px;
      transition: width 0.3s, height 0.3s;
@@ -64,6 +66,6 @@ div.find.container{
   color: rgb(94, 90, 87);
 }
 .NameFooter{
-  width: 103%;
+  width: 100%;
 }
  }

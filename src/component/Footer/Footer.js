@@ -35,12 +35,9 @@ const Footer = (props) => {
             </Col>
           </Row>
         </div>
-        <div >
-        <Row className="NameFooter">
-              
+        <div className="NameFooter" >
                 <p className="Name">Taufiiqulhakim &copy; {new Date().getFullYear()}</p>
             
-          </Row>
         </div>
       </div>
     );
