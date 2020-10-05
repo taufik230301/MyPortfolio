@@ -21,6 +21,9 @@ class List extends React.Component{
             <NavLink href="https://youtu.be/VYXKBrNsvhc">
                  <p className="list">Yok Mengenal Lebih Dalam Macam - Macam Variable dan Tipe Data dalam Dart</p>
             </NavLink>
+            <NavLink href="https://www.youtube.com/watch?v=AA-3HqhDLUc&t=326s">
+                 <p className="list">Final dan Const itu Berbedaloh</p>
+            </NavLink>
             </div>
         )
     }
