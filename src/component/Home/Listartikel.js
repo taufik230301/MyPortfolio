@@ -22,7 +22,12 @@ class List extends React.Component{
                  <p className="list">Yok Mengenal Lebih Dalam Macam - Macam Variable dan Tipe Data dalam Dart</p>
             </NavLink>
             <NavLink href="https://www.youtube.com/watch?v=AA-3HqhDLUc&t=326s">
-                 <p className="list">Final dan Const itu Berbedaloh</p>
+                 <p className="list">Final dan Const itu Berbeda loh!</p>
+            </NavLink>
+
+            <h1>Sharing Session</h1>
+            <NavLink href="https://www.youtube.com/watch?v=n9x0MDZ72bc">
+                 <p className="list">Introduction to Basic React JS Powered By Palembang Digital Community</p>
             </NavLink>
             </div>
         )
