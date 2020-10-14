@@ -24,6 +24,15 @@ class List extends React.Component{
             <NavLink href="https://www.youtube.com/watch?v=AA-3HqhDLUc&t=326s">
                  <p className="list">Final dan Const itu Berbeda loh!</p>
             </NavLink>
+            <NavLink href="https://www.youtube.com/watch?v=IHsPYHNkWCg">
+                 <p className="list">Operator pada DART</p>
+            </NavLink>
+            <NavLink href="https://www.youtube.com/watch?v=rKWnMKDTRB4">
+                 <p className="list">Operator Aritmatika pada DART</p>
+            </NavLink>
+            <NavLink href="https://www.youtube.com/watch?v=io9UWgntGgo">
+                 <p className="list">Operator Relasional dan Perbandingan pada DART</p>
+            </NavLink>
 
             <h1>Sharing Session</h1>
             <NavLink href="https://www.youtube.com/watch?v=n9x0MDZ72bc">
