@@ -33,6 +33,9 @@ class List extends React.Component{
             <NavLink href="https://www.youtube.com/watch?v=io9UWgntGgo">
                  <p className="list">Operator Relasional dan Perbandingan pada DART</p>
             </NavLink>
+            <NavLink href="https://www.youtube.com/watch?v=nTXVtAm544g">
+                 <p className="list">Operator Bitwise pada DART</p>
+            </NavLink>
 
             <h1>Sharing Session</h1>
             <NavLink href="https://www.youtube.com/watch?v=n9x0MDZ72bc">
