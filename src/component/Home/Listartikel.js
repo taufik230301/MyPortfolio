@@ -36,6 +36,12 @@ class List extends React.Component{
             <NavLink href="https://www.youtube.com/watch?v=nTXVtAm544g">
                  <p className="list">Operator Bitwise pada DART</p>
             </NavLink>
+            <NavLink href="https://www.youtube.com/watch?v=n_ZRt2oWfMM&t=1s">
+                 <p className="list">Operator Type Test pada DART</p>
+            </NavLink>
+            <NavLink href="https://www.youtube.com/watch?v=vDtNSIQSw8U">
+                 <p className="list">Operator Logical pada DART</p>
+            </NavLink>
 
             <h1>Sharing Session</h1>
             <NavLink href="https://www.youtube.com/watch?v=n9x0MDZ72bc">
