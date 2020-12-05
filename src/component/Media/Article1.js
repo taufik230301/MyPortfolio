@@ -7,6 +7,7 @@ import Fade from 'react-reveal/Fade'
 import Dicoding from '../Image/dicoding.png'
 import VB from '../Image/VB.png'
 import Udemy from '../Image/udemy.png'
+import covit from '../Image/covit.jpg'
 
 
 const Article1 = () => {
@@ -89,6 +90,19 @@ const Article1 = () => {
           Implementasi dengan dasar - dasar bahasa pemrograman Dart dan implementasi Penggunaan API.
             <br/>
           <Button color="primary" href="https://github.com/taufik230301/Weather_Apps">View Source Code</Button>
+                </Media>
+            </Media>
+            <Media className="mt-1">
+                <Media left middle href="">
+                    <Media object data-src="holder.js/64x64" alt="Generic placeholder image" src={covit} />
+                </Media>
+                <Media body>
+                    <Media heading>
+                       Juara 3 Lomba Web Developer Cov-IT
+          </Media>
+          Berpartisipasi dalam acara Colaboration of IT yang diselenggarakan oleh HMJ Teknik Komputer Polsri, HMJ Manajemen Informatika Polsri dan BEM Polsri.
+            <br/>
+          <Button color="primary" href="https://github.com/taufik230301/covid-data-tracker">View Source Code</Button>
                 </Media>
             </Media>
             </Fade>
