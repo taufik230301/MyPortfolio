@@ -102,6 +102,7 @@ const Article1 = () => {
           </Media>
           Berpartisipasi dalam acara Colaboration of IT yang diselenggarakan oleh HMJ Teknik Komputer Polsri, HMJ Manajemen Informatika Polsri dan BEM Polsri.
             <br/>
+        Website Covid Tracker ini merupakan web informasi data covid dari bebagai belahan dunia, data tersebut diambil dari API yang telah disediakan
           <Button color="primary" href="https://github.com/taufik230301/covid-data-tracker">View Source Code</Button>
                 </Media>
             </Media>
