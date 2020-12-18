@@ -8,7 +8,7 @@ import Dicoding from '../Image/dicoding.png'
 import VB from '../Image/VB.png'
 import Udemy from '../Image/udemy.png'
 import covit from '../Image/covit.jpg'
-
+import paper from '../Image/paper.png'
 
 const Article1 = () => {
     return (
@@ -104,6 +104,19 @@ const Article1 = () => {
             <br/>
         Website Covid Tracker ini merupakan web informasi data covid dari bebagai belahan dunia, data tersebut diambil dari API yang telah disediakan
           <Button color="primary" href="https://github.com/taufik230301/covid-data-tracker">View Source Code</Button>
+                </Media>
+            </Media>
+            <Media className="mt-1">
+                <Media left middle href="">
+                    <Media object data-src="holder.js/64x64" alt="Generic placeholder image" src={paper} />
+                </Media>
+                <Media body>
+                    <Media heading>
+                       Aplikasi E-Paper menggunakan Web API
+          </Media>
+          Aplikasi ini menggunakan teknologi framework flutter, dan merupakan project magang di PT Citra Bumi Sumatera Sumatera Ekspress.
+            <br/>
+          <Button color="primary" href="https://github.com/SumeksApp/App">View Source Code</Button>
                 </Media>
             </Media>
             </Fade>
