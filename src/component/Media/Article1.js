@@ -102,7 +102,7 @@ const Article1 = () => {
           </Media>
           Berpartisipasi dalam acara Colaboration of IT yang diselenggarakan oleh HMJ Teknik Komputer Polsri, HMJ Manajemen Informatika Polsri dan BEM Polsri.
             <br/>
-        Website Covid Tracker ini merupakan web informasi data covid dari bebagai belahan dunia, data tersebut diambil dari API yang telah disediakan
+        Website Covid Tracker ini merupakan Web Informasi data covid dari bebagai belahan dunia, data tersebut diambil dari API yang telah disediakan
           <Button color="primary" href="https://github.com/taufik230301/covid-data-tracker">View Source Code</Button>
                 </Media>
             </Media>
@@ -114,7 +114,7 @@ const Article1 = () => {
                     <Media heading>
                        Aplikasi E-Paper menggunakan Web API
           </Media>
-          Aplikasi ini menggunakan teknologi framework flutter, dan merupakan project magang di PT Citra Bumi Sumatera Sumatera Ekspress.
+          Aplikasi ini menggunakan teknologi framework flutter dan bahasa pemrograman dart, dan merupakan project magang di PT Citra Bumi Sumatera Sumatera Ekspress.
             <br/>
           <Button color="primary" href="https://github.com/SumeksApp/App">View Source Code</Button>
                 </Media>
